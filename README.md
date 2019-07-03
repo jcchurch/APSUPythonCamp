@@ -2,4 +2,4 @@
 
 Here's our Thursday plan.
 
-- First, let's learn about [Lists].
+- First, let's learn about [Lists](Lists.md).
